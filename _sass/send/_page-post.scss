@@ -8,7 +8,7 @@
 
 	.post-header {
 		text-align: center;
-		padding: 3rem 0;
+		padding-top: 3rem;
 
 		&.with-background {
 			min-height: 300px;
@@ -27,6 +27,10 @@
 		margin: 0;
 	}
 
+	.post-meta {
+		font-family: $base-font-family;
+	}
+
 	// For Captions
 	img + em, .image-row + p > em {
 		font-size: 0.8em;
@@ -43,6 +47,20 @@
 		margin: -3em 0 2em 0;
 	}
 
+	img.floated-left {
+		float: left;
+		width: 50%;
+		margin: 0 1em 1em 0;
+		border: 5px solid #eee;
+	}
+
+	img.floated-right {
+		float: right;
+		width: 50%;
+		margin: 0 0 1em 1em;
+		border: 5px solid #eee;
+	}
+
 	.post-content, #related-post {
 		max-width: 700px;
 		margin: 0 auto;
@@ -54,10 +72,14 @@
 			text-align: center;
 		}
 
+		h3 {
+			line-height: 0;
+		}
+
 		p, h5 {
 			margin: 1.5rem auto;
 			max-width: 700px;
-			font-family: $article-font-family;
+			font-family: $copy-font-family;
 		}
 
 		h5 {
@@ -80,6 +102,12 @@
 				}
 			}
 		}
+	}
+
+	.emphasis {
+		border: 5px solid #222;
+		padding: 20px;
+		margin: 70px 0;
 	}
 
 	#related-post {
