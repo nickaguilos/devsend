@@ -36,8 +36,10 @@ We did a few interviews in between sends to figure out what itch these guys were
 <h3>
 	RENZ
 </h3>
-Age: 26 <br>
-Climbing XP: <3 tries 
+<div class="subtext">
+	Age: 26 <br>
+	Climbing XP: <3 tries 
+</div>
 
 As of world climbing day, Renz had only climbed twice in his life. Once to try it, and another time to try it again. But within those 2 sessions, he already picked up on some important pointers on climbing: 
 
@@ -64,9 +66,10 @@ A: It wasn’t that scary. But I think for the autobelay part I took a while. I 
 <h3>
 	Nico
 </h3>
-
-Age: 29 <br>
-Climbing XP: <2 years
+<div class="subtext">
+	Age: 29 <br>
+	Climbing XP: <2 years
+</div>
 
 Nico is what you would call a boulderer, which you might mistakenly think is someone who is built like a boulder -- but that’s not always the case. 
 
