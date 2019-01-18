@@ -10,13 +10,14 @@ $copy-font-family: 'freight-text-pro', serif;
 $article-font-family: 'freight-text-pro', serif;
 $base-color: #1a1a1a;
 $font-color: #111;
-$hover-color: #aaa;
+$hover-color: #444;
 $border-color: #ddd;
+$dark-border-color: #222;
 $highlight-color: #e66b72;
 
 // Breakpoints 
 $xsmall-device: 320px;
-$small-device: 500px;
+$small-device: 600px;
 $medium-device: 700px;
 $large-device: 1000px;
 $xlarge-device: 1400px;

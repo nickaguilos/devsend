@@ -40,6 +40,16 @@
 		}
 	}
 
+	#ad {
+		grid-column: 2/12;
+		a {
+			display: block;
+			&:hover {
+				opacity: 0.8;
+			}
+		}
+	}
+
 	.post-list {
 		grid-column: 2/12;
 		list-style: none;
@@ -78,24 +88,18 @@
 
 	.date-author {
 		opacity: 0.5;
+		font-size: 16px;
 	}
 
 	.featured-photo {
 		text-align: center;
-		grid-column: 1/13;
-		padding: 2rem 0 3rem 0;
+		grid-column: 2/12;
+		padding: 2rem 1rem 3rem 1rem;
 		margin: 3rem 0;
-		border-top: 1px solid $border-color;
-		border-bottom: 1px solid $border-color;
-		background-color: #111;
-		color: #fff;
+		border: 5px solid $dark-border-color;
 		
 		h3 {
 			margin: 0;
-
-			a {
-				color: #fff;
-			}
 		}
 
 		p {
@@ -194,10 +198,7 @@
 
 		.featured-photo {
 			padding-bottom: 3rem; 
-
-			h3 {
-				font-size: 2rem;
-			}
+			margin: 1em;
 
 			.img-row {
 				margin-left: -1rem;
