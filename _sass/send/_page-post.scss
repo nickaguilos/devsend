@@ -62,7 +62,7 @@
 		border: 5px solid #eee;
 	}
 
-	.post-content, #related-post {
+	.post-content, #related-post .inner-wrapper {
 		max-width: 700px;
 		margin: 0 auto;
 
@@ -114,38 +114,39 @@
 	#related-post {
 		padding: 3em 0;
 		margin-top: 5em;
-		border-top: 1px dotted $border-color;
-
+		border-top: 1px dotted -color;
+	    background-color: pink;
+	
 		@keyframes move-arrow {
 			from {
 				left: 0;
 			}
-
+	
 			to {
 				left: 5px;
 			}
 		}
-
+	
 		.fas {
 			display: block;
 			position: relative;
 		}
-
+	
 		h3 {
 			margin: 0 0 -10px 0;
 		}
-
+	
 		a {
 			display: flex;
 			align-items: center;
-
+	
 			&:hover {
-				color: $base-color !important;
-
+				color: #fff !important;
+	
 				h3 {
 					opacity: 0.5;
 				}
-
+	
 				.fas {
 					animation-name: move-arrow;
 					animation-duration: 0.5s;
