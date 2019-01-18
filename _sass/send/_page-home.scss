@@ -172,6 +172,17 @@
 			flex-direction: column;
 		}
 
+		.date-author {
+			margin-top: 5px;
+			font-size: 14px;
+		}
+
+		.post-list {
+			p {
+				margin: 0.5em 0;
+			}
+		}
+
 		.post-list, .featured-photo {
 			grid-column: 1/13;
 			padding: 1em;

@@ -96,10 +96,12 @@ A: There’s always a better way to do a certain route, a certain move. And that
 <h3>
 	Buddy
 </h3>
-Age: ???  <br>
-Climbing XP: ???  <br>
-Highest climbing grade: 8A+ <br>
-Highest glasses grade: 400 
+<div class="subtext">
+	Age: ???  <br>
+	Climbing XP: ???  <br>
+	Highest climbing grade: 8A+ <br>
+	Highest glasses grade: 400 
+</div>
 
 If you didn’t guess by his name, Virgilio Advincula (or Kuya Buddy as he’s fondly referred to in the climbing community), is a veteran climber. While his age and climbing experience are still things of mystery, legend has it that Kuya Buddy has been in the climbing scene since it boomed, mellowed out, and boomed again. 
 
@@ -123,8 +125,10 @@ A: Definitely! Number one, it’s a whole-body workout. Instead of being a couch
 
 ![Annemarie](/assets/images/issue-2/gcd/5.jpg){:class="floated-right"}
 <h3>ANNEMARIE</h3>
-Age: 31 <br>
-Climbing XP: >1 time
+<div class="subtext">
+	Age: 31 <br>
+	Climbing XP: >1 time
+</div>
 
 August 18, 2018 was Annemarie Gomez’s first time climbing. Ever. As with most people, she suffers from a fear of heights. But instead of keeping her feet planted in the comfort zone that is the floor, she decided to give climbing a whirl. 
 
@@ -156,9 +160,11 @@ A: Well actually the instructors. They’re really patient in teaching the first
 ![Kranz](/assets/images/issue-2/gcd/6.jpg){:class="floated-left"}
 
 <h2>KRANZ</h2>
-Age: 22 <br>
-Climbing XP: 4 years <br>
-Arch nemesis: Ponchai aka Kranz 
+<div class="subtext">
+	Age: 22 <br>
+	Climbing XP: 4 years <br>
+	Arch nemesis: Ponchai aka Kranz 
+</div>
 
 Kranz (fondly referred to as “Kranzisco” by his real friends) started climbing 4 years ago in Market Market. He was introduced to the sport by Dennis Diaz who is an alumni of the Mapua University Mountaineering Club, which Kranz is a part of. 
 
@@ -183,9 +189,11 @@ A: …
 ![Chelle](/assets/images/issue-2/gcd/7.jpg){:class="floated-right"}
 
 <h2>CHELLE</h2>
-Age: 26 <br>
-Climbing XP: >3 years <br>
-Partner-in-climb: Brandon 
+<div class="subtext">
+	Age: 26 <br>
+	Climbing XP: >3 years <br>
+	Partner-in-climb: Brandon 
+</div>
 
 Chelle is living proof that climbing is a gender-neutral sport. In the bouldering gym, you’ll find Chelle working on and crushing all the same problems as the biggest, burliest boys out there. 
 
