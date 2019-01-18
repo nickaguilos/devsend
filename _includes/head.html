@@ -19,7 +19,8 @@
     <link rel="apple-touch-icon" sizes="72x72" href="{{ '/assets/apple-72.png' | relative_url }}" />
     <link rel="apple-touch-icon" sizes="114x114" href="{{ '/assets/apple-114.png' | relative_url }}" />
     
-    <link rel="stylesheet" href="{{ '/assets/main.css' | absolute_url }}">
+    <link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}">
+    <!-- Load Typekit -->
     <link rel="stylesheet" href="https://use.typekit.net/agm1ijz.css">
     {%- feed_meta -%}
     {%- if jekyll.environment == 'production' and site.google_analytics -%}
