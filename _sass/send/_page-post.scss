@@ -200,11 +200,10 @@
 
 	#section-nav {
 		padding: 1em;
-		margin: 1em 3em;
 		background-color: #fff;
 		border: 3px solid $dark-border-color;
 
-		overflow: scroll;
+		overflow-x: scroll;
 		white-space: nowrap;
 
 		::-webkit-scrollbar {

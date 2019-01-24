@@ -37,6 +37,10 @@
 			background: #fff;
 			max-width: 1000px;
 			text-align: center;
+
+			@media screen and (max-width: $large-device) {
+				margin-top: 0;
+			}
 		}
 	}
 

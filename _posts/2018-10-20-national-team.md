@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Meet The Team (Part 1)"
-author: Michelle Co
+author: Send Staff
 tag: featured
 identifier: natl-team
 image: /assets/images/issue-2/national-team/hero.jpg
@@ -377,10 +377,10 @@ Home gym: Power Up Centro Atletico*
 
 ### Liana Mora
 
-*Name: Liana Nicole G. Mora
-Hometown: Cagayan de Oro City
-Age: 28
-Occupation: Climber/Athlete
+*Name: Liana Nicole G. Mora  
+Hometown: Cagayan de Oro City  
+Age: 28  
+Occupation: Climber/Athlete  
 Home gym: Viajero 2000*
 
 ***
@@ -406,7 +406,7 @@ Home gym: Viajero 2000*
 **Send**: What are your current goals now?  
 **Liana**: My goal is to develop the climbing community in my city and train kids to love the sport. I also want to continue being part of the Philippine National team and experience different types of competitions while representing my country.
 
-**Send**: How does it feel to be part of the national climbing team?
+**Send**: How does it feel to be part of the national climbing team?  
 **Liana**: I feel honored and privileged. It has opened so many doors of opportunity for me. I also am glad that I am in the team with my brother. It makes the journey less lonely because we're both from the province.
 
 
@@ -559,15 +559,3 @@ Home gym: Power Up Cubao (Centro Atletico)*
 
 </div>
 </section>
-
-
-<!-- Scripts -->
-<script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
-
-<script src="https://cdnjs.cloudflare.com/ajax/libs/ScrollToFixed/1.0.8/jquery-scrolltofixed-min.js"></script>
-
-<script>
-	$(document).ready(function(){
-		$("#section-nav").scrollToFixed();
-	});
-</script>
