@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Meet The Team"
+title: "Meet The Team (Part 1)"
 author: Michelle Co
 tag: featured
 identifier: natl-team
@@ -12,8 +12,17 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus praesentium i
 
 <nav id="section-nav">
 	<strong>Jump To:</strong>
-	<a href="#verosil">Verosil</a>,
-	<a href="">Jusay</a>,
+	<a href="#verosil">Gerald Verosil</a>
+	<a href="#mora">Iman Mora</a>
+	<a href="#jusay">Washington Jusay</a>
+	<a href="#veloria">John Veloria</a>
+	<a href="#grageda">Brandon Grageda</a>
+	<a href="#tejares">Mhik Tejares</a>
+	<a href="#ala">Joanne Ala</a>
+	<a href="#mora-l">Liana Mora</a>
+	<a href="#suarez">Chelle Suarez</a>
+	<a href="#pua">Juvelle Pua</a>
+	<a href="#gana">Erika Gana</a>
 </nav>
 
 
@@ -67,8 +76,8 @@ Gym you started climbing: Onsight Climbing Gym, Singapore*
 
 </section>
 
-<!-- Jusay -->
-<section markdown="1">
+<!-- Mora -->
+<section markdown="1" id="mora">
 <div markdown="1">
 ![{{ page.title }}]({{ '/assets/images/issue-2/national-team/mora.jpg' | relative_url }})
 </div>
@@ -117,7 +126,7 @@ Iman: I feel honored and at the same time excited to always have a reason to tra
 </section>
 
 <!-- Jusay -->
-<section markdown="1">
+<section markdown="1" id="jusay">
 <div markdown="1">
 ![{{ page.title }}]({{ '/assets/images/issue-2/national-team/jusay.jpg' | relative_url }})
 </div>
@@ -168,7 +177,7 @@ Recovering from an injury affects me mentally as well. I need to keep myself mot
 </section>
 
 <!-- Veloria -->
-<section markdown="1">
+<section markdown="1" id="veloria">
 <div markdown="1">
 ![{{ page.title }}]({{ '/assets/images/issue-2/national-team/veloria.jpg' | relative_url }})
 </div>
@@ -217,7 +226,7 @@ Home gym: Power Up Tandang Sora*
 
 
 <!-- Grageda -->
-<section markdown="1">
+<section markdown="1" id="grageda">
 <div markdown="1">
 ![{{ page.title }}]({{ '/assets/images/issue-2/national-team/grageda.jpg' | relative_url }})
 </div>
@@ -261,7 +270,7 @@ Home Gym: Power Up Centro Atletico*
 </section>
 
 <!-- Tejares -->
-<section markdown="1">
+<section markdown="1" id="tejares">
 <div markdown="1">
 ![{{ page.title }}]({{ '/assets/images/issue-2/national-team/tejares.jpg' | relative_url }})
 </div>
@@ -310,7 +319,7 @@ Home gym: Power Up Diliman/Tandang Sora*
 
 <!-- Ala -->
 
-<section markdown="1">
+<section markdown="1" id="ala">
 <div markdown="1">
 ![{{ page.title }}]({{ '/assets/images/issue-2/national-team/ala.jpg' | relative_url }})
 </div>
@@ -360,7 +369,7 @@ Home gym: Power Up Centro Atletico*
 
 
 <!-- Mora L -->
-<section markdown="1">
+<section markdown="1" id="mora-l">
 <div markdown="1">
 ![{{ page.title }}]({{ '/assets/images/issue-2/national-team/l-mora.jpg' | relative_url }})
 </div>
@@ -406,7 +415,7 @@ Home gym: Viajero 2000*
 
 <!-- Suarez -->
 
-<section markdown="1">
+<section markdown="1" id="suarez">
 <div markdown="1">
 ![{{ page.title }}]({{ '/assets/images/issue-2/national-team/suarez.jpg' | relative_url }})
 </div>
@@ -454,7 +463,7 @@ Home gym:  Power Up Centro Atletico*
 </section>
 
 <!-- Pua -->
-<section markdown="1">
+<section markdown="1" id="pua">
 <div markdown="1">
 ![{{ page.title }}]({{ '/assets/images/issue-2/national-team/pua.jpg' | relative_url }})
 </div>
@@ -504,7 +513,7 @@ Home gym: Power Up Tandang Sora*
 
 <!-- Gana -->
 
-<section markdown="1">
+<section markdown="1" id="gana">
 <div markdown="1">
 ![{{ page.title }}]({{ '/assets/images/issue-2/national-team/gana.jpg' | relative_url }})
 </div>

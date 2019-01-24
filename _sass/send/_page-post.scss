@@ -198,7 +198,21 @@
 #natl-team {
 	max-width: 100%;
 
-	#sharer, #section-nav {
+	#section-nav {
+		padding: 10px 20px;
+		margin: 3em;
+		border: 3px solid $dark-border-color;
+
+		overflow: scroll;
+		white-space: nowrap;
+
+		a {
+			display: inline-block;
+			margin-left: 1em;
+		}
+	}
+
+	#sharer {
 		max-width: 700px;
 		margin: 0 auto;
 	}
