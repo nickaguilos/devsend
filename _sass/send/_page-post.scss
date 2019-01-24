@@ -199,12 +199,17 @@
 	max-width: 100%;
 
 	#section-nav {
-		padding: 10px 20px;
-		margin: 3em;
+		padding: 1em;
+		margin: 1em 3em;
+		background-color: #fff;
 		border: 3px solid $dark-border-color;
 
 		overflow: scroll;
 		white-space: nowrap;
+
+		::-webkit-scrollbar {
+			display: none;
+		}
 
 		a {
 			display: inline-block;
