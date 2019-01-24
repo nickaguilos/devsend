@@ -35,7 +35,7 @@ layout: default
     <img src="{{ page.lower-hero }}" alt="lower-hero-image" class="hero-image">
     {% endif %}
 
-    <div class="post-content e-content" itemprop="articleBody">
+    <div id="{{ page.identifier }}" class="post-content e-content" itemprop="articleBody">
         {{ content }}
 
         {% include share.html %}

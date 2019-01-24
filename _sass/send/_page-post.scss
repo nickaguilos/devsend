@@ -192,3 +192,43 @@
 		}
 	}
 }
+
+
+// National Team Override
+#natl-team {
+	max-width: 100%;
+	> section {
+		display: flex;
+		position: relative;
+
+		@media screen and (max-width: $small-device) {
+			flex-direction: column;
+
+			div:nth-child(2) {
+				margin-left: 0 !important;
+			}
+		}
+
+		div:first-child {
+			flex: 50%;
+
+			@media screen and (max-width: $medium-device) {
+				flex: 60%;
+			}
+
+			> p {
+				position: sticky;
+				top: 0;
+			}
+		}
+
+		div:nth-child(2) {
+			flex: 75%;
+			margin-left: 3em;
+
+			p {
+				margin-left: 0;
+			}
+		}
+	}
+}
