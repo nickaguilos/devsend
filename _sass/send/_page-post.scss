@@ -197,6 +197,11 @@
 // National Team Override
 #natl-team {
 	max-width: 100%;
+
+	#sharer, #section-nav {
+		max-width: 700px;
+		margin: 0 auto;
+	}
 	> section {
 		display: flex;
 		position: relative;
